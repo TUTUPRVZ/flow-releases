@@ -1,0 +1,9 @@
+{
+  "channel": "beta",
+  "version": "0.4.0",
+  "url": "https://github.com/TUTUPRVZ/flow-releases/releases/download/v0.4.0/FlowSetup-0.4.0.exe",
+  "sha256": "D567DB261DAF06F8536A0915D98F1798A82A35BF98792AA354F5AB317E9EA3CC",
+  "notes_url": "https://github.com/TUTUPRVZ/flow-releases/releases/tag/v0.4.0",
+  "mandatory": true,
+  "published_at": "2026-06-05"
+}
