@@ -1,0 +1,9 @@
+{
+  "channel": "beta",
+  "version": "0.4.1",
+  "url": "https://github.com/TUTUPRVZ/flow-releases/releases/download/v0.4.1-autoupdate-test/FlowSetup-0.4.1.exe",
+  "sha256": "814F0E19EF4D5D4F6E2E6FFDF5B3F95D526A5B44DE59ACC21ACB661C66E11ACC",
+  "notes_url": "https://github.com/TUTUPRVZ/flow-releases/releases/tag/v0.4.1-autoupdate-test",
+  "mandatory": true,
+  "published_at": "2026-06-05"
+}
